@@ -4,6 +4,20 @@
 
 Return the score of s*/
 
+/**Runtime
+63
+ms
+Beats
+46.88%
+ */
+
+/**Memory
+49.41
+MB
+Beats
+84.00%
+ */
+
 var scoreOfString = function (s) {
   let ans = 0;
   for (let i = 1; i < s.length; i++) {
