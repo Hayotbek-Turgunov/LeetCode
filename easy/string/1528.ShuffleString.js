@@ -13,7 +13,7 @@ Explanation: After shuffling, each character remains in its position. */
 Beats 80.20%
 
 Memory 51.08 MB
-Beats20.71% */
+Beats 20.71% */
 
 var restoreString = function (s, indices) {
   let ar = new Array(indices.length);
