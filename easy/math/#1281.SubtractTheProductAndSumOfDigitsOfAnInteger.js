@@ -1,5 +1,9 @@
 /**Given an integer number n, return the difference between the product of its digits and the sum of its digits. */
 
+/**Runtime 40 ms Beats 96.18%
+Memory 48.64 MB Beats 73.44%
+ */
+
 /**Example 1:
 
 Input: n = 234
@@ -30,10 +34,3 @@ var subtractProductAndSum = function (n) {
 };
 
 subtractProductAndSum(234);
-
-/**Runtime
-40 ms
-Beats 96.18%
-Memory 48.64 MB
-Beats 73.44%
- */
