@@ -17,10 +17,10 @@ Output: ["Bob","Alice","Bob"]
 Explanation: The first Bob is the tallest, followed by Alice and the second Bob. */
 
 /**Runtime 71 ms
-Beats 65.66%
+  Beats 65.66%
 
-Memory 55.39 MB
-Beats 27.96% */
+  Memory 55.39 MB
+  Beats 27.96% */
 
 var sortPeople = function (names, heights) {
   let array = [];
